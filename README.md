@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+calculates word and character count in a book (txt file)
